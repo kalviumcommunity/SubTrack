@@ -1,0 +1,15 @@
+{
+  "name": "subtrack",
+  "version": "1.0.0",
+  "description": "SubTrack is a simple subscription tracking app that helps users keep track of their monthly subscriptions (e.g., Netflix, Spotify, Gym, etc.), reminding them of upcoming payments and preventing unwanted auto-renewals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^23.7.0"
+  }
+}
